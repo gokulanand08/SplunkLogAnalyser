@@ -1,0 +1,68 @@
+# =========================
+# Java & Maven
+# =========================
+target
+!.mvnwrappermaven-wrapper.jar
+.mvntiming.properties
+
+# Maven build logs
+log
+.log
+
+# Eclipse
+.project
+.classpath
+.settings
+bin
+
+# IntelliJ IDEA
+.idea
+.iml
+.iws
+out
+
+# NetBeans
+nbprojectprivate
+build
+nbbuild
+dist
+nbdist
+.nb-gradle
+
+# VS Code
+.vscode
+
+# =========================
+# OS junk files
+# =========================
+.DS_Store
+Thumbs.db
+
+# =========================
+# Environment files (optional)
+# =========================
+.env
+.env
+
+# =========================
+# Application properties (optional — comment out if you want to commit)
+# =========================
+# application.properties
+# application.yml
+
+# =========================
+# Logs
+# =========================
+.log
+
+# =========================
+# Temporary files
+# =========================
+.tmp
+.swp
+.swo
+
+# =========================
+# Package distributions
+# =========================
+.jar
