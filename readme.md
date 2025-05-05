@@ -62,7 +62,7 @@ The API key is configured in `src/main/resources/application.properties`. You ca
 
 ```properties
 server.port=8080
-cohere.api.key=HE7sjkc8BdreEKBXOdD0otKxi2llZuDvFyIlxtSg
+cohere.api.key=
 ```
 
 ## Customization
